@@ -1,0 +1,5 @@
+@font-face { font-family: 'BebasNeue-book'; src: url('BebasNeue-Book.ttf') format("truetype"); }
+
+body{
+  font-family: 'BebasNeue-book', sans-serif;
+}

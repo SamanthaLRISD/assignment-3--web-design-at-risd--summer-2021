@@ -1,5 +1,10 @@
 @font-face { font-family: 'BebasNeue-book'; src: url('BebasNeue-Book.ttf') format("truetype"); }
 
+a{
+  color: #000;
+  text-decoration: none;
+}
+
 body{
   font-family: 'BebasNeue-book', sans-serif;
 }

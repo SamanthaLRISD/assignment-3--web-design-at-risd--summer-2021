@@ -7,4 +7,13 @@ a{
 
 body{
   font-family: 'BebasNeue-book', sans-serif;
+  margin: 3rem;
+  font-size: 8rem;
+  color: #555
+}
+
+h2{
+  margin-left: 47rem;
+}
+
 }

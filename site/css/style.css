@@ -1,4 +1,7 @@
-@font-face { font-family: 'BebasNeue-book'; src: url('BebasNeue-Book.ttf') format("truetype"); }
+@font-face {
+  font-family: 'BebasNeue-book';
+  src: url('BebasNeue-Book.ttf') format("truetype");
+}
 
 a{
   color: #000;

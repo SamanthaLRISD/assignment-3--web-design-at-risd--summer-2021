@@ -19,11 +19,15 @@ h2 {
   margin-left: 47rem;
 }
 
-p{
 p {
   margin-left: 47rem;
   font: 2rem / 1.5 'noto sans', sans-serif;
   color: #555;
+}
+
+img {
+  text-align: center;
+  margin: 0 auto;
 }
 
   margin-left: 47rem;

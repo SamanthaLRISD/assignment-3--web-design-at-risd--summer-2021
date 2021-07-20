@@ -41,6 +41,14 @@ img {
   font: 8rem 'BebasNeue-book', sans-serif;
 }
 
+#titleasbody{
+  font-family: 'BebasNeue-book', sans-serif;
+  text-align: left;
+  font-size: 8rem;
+  color: #555;
+  text-shadow: 0rem 0rem 1rem #555;
+}
+
 #blacktext {
   color: #000;
 }

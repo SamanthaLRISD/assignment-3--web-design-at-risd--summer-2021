@@ -20,6 +20,12 @@ h2 {
 }
 
 p{
+p {
+  margin-left: 47rem;
+  font: 2rem / 1.5 'noto sans', sans-serif;
+  color: #555;
+}
+
   margin-left: 47rem;
   color: #000;
   text-shadow: .1rem .1rem 1rem;

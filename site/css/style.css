@@ -35,10 +35,7 @@ img {
 }
 
 .highlight {
-  margin-left: 47rem;
-  color: #000;
-  text-shadow: .1rem .1rem 1rem;
-  font: 8rem 'BebasNeue-book', sans-serif;
+  background-color: #eee;
 }
 
 #titleasbody{

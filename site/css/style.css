@@ -47,6 +47,10 @@ p {
   opacity: .3;
 }
 
+nav {
+  text-align: center;
+}
+
 #titleasbody{
   font-family: 'BebasNeue-book', sans-serif;
   text-align: left;

@@ -12,7 +12,7 @@ body {
   font-family: 'BebasNeue-book', sans-serif;
   margin: 3rem;
   font-size: 8rem;
-  color: #555;
+  color: #aaa;
 }
 
 h2 {
@@ -22,7 +22,7 @@ h2 {
 p {
   margin-left: 47rem;
   font: 2rem / 1.5 'noto sans', sans-serif;
-  color: #555;
+  color: #aaa;
 }
 
 img {
@@ -35,12 +35,11 @@ img {
 }
 
 .highlight {
+  color: #111;
   background-color: #eee;
   opacity: .8;
 }
 
-.whitetext {
-  color: #aaa;
 }
 
 #titleasbody{

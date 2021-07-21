@@ -38,6 +38,10 @@ img {
   background-color: #eee;
 }
 
+.whitetext {
+  color: #aaa;
+}
+
 #titleasbody{
   font-family: 'BebasNeue-book', sans-serif;
   text-align: left;

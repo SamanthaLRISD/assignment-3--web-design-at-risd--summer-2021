@@ -29,6 +29,10 @@ p {
   float: right;
 }
 
+.rightaline {
+  float: left;
+}
+
 .highlight {
   color: #111;
   background-color: #eee;

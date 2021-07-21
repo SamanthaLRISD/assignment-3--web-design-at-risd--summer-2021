@@ -36,6 +36,7 @@ img {
 
 .highlight {
   background-color: #eee;
+  opacity: .8;
 }
 
 .whitetext {
